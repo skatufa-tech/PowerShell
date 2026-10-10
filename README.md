@@ -2,6 +2,8 @@
 
 A collection of practical PowerShell scripts for Windows administration, Microsoft Intune application deployment, Microsoft Defender updates, and endpoint management.
 
+Collection of scripts from [TechEUC - Intune & SCCM Guides](https://techeuc.com)
+
 This repository is maintained by **Skatufa Tech** and is intended to help IT administrators, endpoint engineers, and system administrators automate common Windows management tasks.
 
 ## What's Included
